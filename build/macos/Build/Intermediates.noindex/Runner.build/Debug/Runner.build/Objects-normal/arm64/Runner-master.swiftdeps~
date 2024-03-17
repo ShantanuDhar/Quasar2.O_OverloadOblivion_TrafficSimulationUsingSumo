@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "175ee026265f55245a94dd0bf1ab8903be43a049083e3376457a7af03742af71"
+build_start_time: [1710640965, 822758000]
+build_end_time: [1710640965, 909521000]
+inputs:
+  "/Users/shantanu/Desktop/TomTomMaps-Flutter-Search/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1710640936, 459052814]
+  "/Users/shantanu/Desktop/TomTomMaps-Flutter-Search/macos/Runner/AppDelegate.swift": !private [1710640718, 74838201]
+  "/Users/shantanu/Desktop/TomTomMaps-Flutter-Search/macos/Runner/MainFlutterWindow.swift": !private [1710640718, 77300636]
